@@ -1,0 +1,11 @@
+h2.intro{
+  font-style: italic;
+  font-size: small;
+}
+p.intro{
+  font-style: italic;
+  font-size: smaller;
+}
+img.intro{
+  image-orientation: flip;
+}
