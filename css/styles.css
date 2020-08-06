@@ -1,13 +1,6 @@
-h2.intro {
-  font-style: italic;
-  font-size: small;
-  color: blue;
-}
-p.intro {
+.intro {
   font-style: italic;
   font-size: smaller;
-  color: blue
-}
-img.intro {
+  color: rgb(22, 22, 87);
   image-orientation: flip;
 }
